@@ -5,3 +5,4 @@
 5. Membuat real world projek untuk portofolio
 6. Melisting skill di upwork
 7. Mendapatkan projek pertama dari upwork
+8. Membangun koneksi dan relasi ke berbagai programmer lain
