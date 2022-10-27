@@ -3,3 +3,6 @@ Hal yang harus saya pelajari :
 - CSS
 - JavaScript
 - PHP
+- Framework Bootstrap
+- Framework JavaScript
+- Framework PHP
