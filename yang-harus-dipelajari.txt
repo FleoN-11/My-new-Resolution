@@ -1,0 +1,8 @@
+Hal yang harus saya pelajari :
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Framework Bootstrap
+- Framework JavaScript
+- Framework PHP
