@@ -1,0 +1,3 @@
+Rencana Ke Depan
+- Belajar bahasa PHP
+- Belajar Framework JavaScript
