@@ -1,7 +1,8 @@
 1. Mulai lanjut belajar programming lagi
 2. Insya Allah konsisten belajar programming agar berhasil
 3. Memahami programming dalam sebulan kedepan
-4. Belajar bahasa inggris
-5. Membuat real world projek untuk portofolio
-6. Melisting skill di upwork
-7. Mendapatkan projek pertama dari upwork
+4. Belajar berbagai framework untuk programming
+5. Belajar bahasa inggris
+6. Membuat real world projek untuk portofolio
+7. Melisting skill di upwork
+8. Mendapatkan projek pertama dari upwork
