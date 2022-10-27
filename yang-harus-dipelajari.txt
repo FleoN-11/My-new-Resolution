@@ -1,0 +1,5 @@
+Hal yang harus saya pelajari :
+- HTML
+- CSS
+- JavaScript
+- PHP
